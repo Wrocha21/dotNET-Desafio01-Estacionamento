@@ -1,0 +1,14 @@
+C:\Users\wallaf\OneDrive\Desktop\CursoDotNet\Execicios\Estacionamento\bin\Debug\net10.0\Execicios.exe
+C:\Users\wallaf\OneDrive\Desktop\CursoDotNet\Execicios\Estacionamento\bin\Debug\net10.0\Execicios.deps.json
+C:\Users\wallaf\OneDrive\Desktop\CursoDotNet\Execicios\Estacionamento\bin\Debug\net10.0\Execicios.runtimeconfig.json
+C:\Users\wallaf\OneDrive\Desktop\CursoDotNet\Execicios\Estacionamento\bin\Debug\net10.0\Execicios.dll
+C:\Users\wallaf\OneDrive\Desktop\CursoDotNet\Execicios\Estacionamento\bin\Debug\net10.0\Execicios.pdb
+C:\Users\wallaf\OneDrive\Desktop\CursoDotNet\Execicios\Estacionamento\obj\Debug\net10.0\Execicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wallaf\OneDrive\Desktop\CursoDotNet\Execicios\Estacionamento\obj\Debug\net10.0\Execicios.AssemblyInfoInputs.cache
+C:\Users\wallaf\OneDrive\Desktop\CursoDotNet\Execicios\Estacionamento\obj\Debug\net10.0\Execicios.AssemblyInfo.cs
+C:\Users\wallaf\OneDrive\Desktop\CursoDotNet\Execicios\Estacionamento\obj\Debug\net10.0\Execicios.csproj.CoreCompileInputs.cache
+C:\Users\wallaf\OneDrive\Desktop\CursoDotNet\Execicios\Estacionamento\obj\Debug\net10.0\Execicios.dll
+C:\Users\wallaf\OneDrive\Desktop\CursoDotNet\Execicios\Estacionamento\obj\Debug\net10.0\refint\Execicios.dll
+C:\Users\wallaf\OneDrive\Desktop\CursoDotNet\Execicios\Estacionamento\obj\Debug\net10.0\Execicios.pdb
+C:\Users\wallaf\OneDrive\Desktop\CursoDotNet\Execicios\Estacionamento\obj\Debug\net10.0\Execicios.genruntimeconfig.cache
+C:\Users\wallaf\OneDrive\Desktop\CursoDotNet\Execicios\Estacionamento\obj\Debug\net10.0\ref\Execicios.dll
